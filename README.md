@@ -1,4 +1,4 @@
-# Leetcode刷题小组
+# 多伦多Leetcode刷题小组
 
 加群请联系微信: hujie_wang 
 
