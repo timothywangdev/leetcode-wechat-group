@@ -1,7 +1,8 @@
 # 多伦多Leetcode刷题小组
-加群qr码: ![qr](https://i.imgur.com/gErtlvA.png)
 
-或联系联系群主微信id: txqn6h7x4wzuhr7ufahb
+加群qr码: <img src="https://github.com/timothywangdev/leetcode-wechat-group/raw/main/mmqrcode1607630620968.png" width="400">
+
+或联系群主微信id: txqn6h7x4wzuhr7ufahb
 
 本小组用于刷题监督，并且通过每周两次刷题活动，提高自己的知识水平，希望大家都能找到梦想的公司上岸。🐶
 
